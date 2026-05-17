@@ -4,5 +4,4 @@
 - 🏛️ Aluno do curso de graduação em Engenharia de Software e Inteligência Artificial da Universidade Federal do Paraná.
 - 📚 Estou aprendendo a linguagem de programação: Python.
 - 📧 E-mail: eenzoganzer@gmail.com
-<br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensodog)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ensodog&show_icons=true&theme=radical)
