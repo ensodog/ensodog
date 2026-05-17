@@ -1,4 +1,4 @@
-# 🇧🇷 Olá! Me chamo Enzo Ganzer.:
+# 🇧🇷 Olá! Me chamo Enzo Ganzer:
 ℹ Informações rápidas: <br>- 🧑🏻‍🎓 Técnico em informática pelo Instituto Federal do Paraná.  <br>- 🏛️ Aluno do curso de graduação em Engenharia de Software e Inteligência Artificial da Universidade Federal do Paraná.<br>- 📚 Estou aprendendo a linguagem de programação: Python.<br>- 📧 E-mail: eenzoganzer@gmail.com<br>
 
 
