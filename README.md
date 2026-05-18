@@ -3,7 +3,7 @@
 
 
 ## 🌐 Redes Sociais:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eenzoganzer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenzoganzer@gmail.com) 
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/eenzoganzer) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:eenzoganzer@gmail.com) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enzo-ganzer-9247b5360/) 
 
 ![Digitando](https://media.tenor.com/HzrtGBa_hZgAAAAM/typing-anime.gif)
 # 💻 Linguagens:
